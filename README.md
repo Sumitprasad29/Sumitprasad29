@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitprasad29&label=Profile%20views&color=0e75b6&style=flat" alt="sumitprasad29" /> </p>
 
-- 🔭 I’m currently working on **Desktop Voice Assistant**
+- 🔭 I’m currently working on **Javascript and React Js**
 
 - 🌱 I’m currently learning **Javascript , ReactJs**
 
