@@ -1,5 +1,5 @@
 ![MasterHead](https://indoanalytica.com/static/images/banner-2.gif)
-<h1 align="center">Hi 👋, I'm Sumit Prasad Arya</h1>
+<h1 align="center">Hi 👋, I'm Sumit</h1>
 <h3 align="center">I'm a Programmer and Front-end web developer from India!!</h3>
 <img align="right" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg" alt="Coding" width="400">
 
